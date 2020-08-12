@@ -1,0 +1,35 @@
+body {  
+    background-color: lightblue;  
+
+}  
+/* h1 {  
+	 position: absolute;
+    color: navy;  
+    margin-left: 20px;  
+}  */
+
+
+
+.welcome{
+	 position: absolute;
+  text-align: center;
+  color: white;
+	
+}
+.homepage_contains{
+ position: absolute;
+  top: 20px;
+  left: 20px;
+
+
+}
+
+.serv_contents{
+position: absolute;
+ color: #ff80c0;
+  top: 20px;
+  left: 50px;
+	
+}
+
+	
